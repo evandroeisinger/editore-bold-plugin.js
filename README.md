@@ -6,7 +6,7 @@ It's easy to use! Load [editor.js](https://github.com/evandroeisinger/editore.js
 ```javascript
 var editor = new Editor(document.getElementById('editor'));
 // then register!
-editor.register('edition', window.BoldEditionPlugin);
+editor.register('edition', window.EditoreBoldPlugin);
 ```
 
 #### install
