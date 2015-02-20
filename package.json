@@ -8,7 +8,7 @@
     "url": "https://github.com/evandroeisinger/editore-bold-plugin.js"
   },
   "scripts": {
-    "hint": "./node_modules/jshint/bin/jshint src/editore-bold-plugin.js",
+    "hint": "./node_modules/jshint/bin/jshint src/editore-bold-plugin.js"
   },
   "license": "MIT",
   "devDependencies": {
