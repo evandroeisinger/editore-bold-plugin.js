@@ -15,7 +15,7 @@
     // set plugin elements/props
     self.button = document.createElement('button');
     self.button.innerText = 'bold';
-    self.name = 'BoldEditionPlugin';
+    self.name = 'boldEditionPlugin';
     self.tag = 'b';
   }
 
