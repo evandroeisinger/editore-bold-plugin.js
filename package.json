@@ -16,6 +16,8 @@
   },
   "keywords": [
     "editor",
+    "editore",
+    "plugin",
     "contenteditable"
   ],
   "main": "src/editore-bold-plugin.js"
