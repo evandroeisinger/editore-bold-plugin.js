@@ -1,0 +1,8 @@
+{
+  "name": "editore",
+  "version": "1.0.0",
+  "main": "src/editore-bold-plugin.js",
+  "ignore": [],
+  "dependencies": {},
+  "devDependencies": {}
+}
