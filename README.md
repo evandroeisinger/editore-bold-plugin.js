@@ -16,7 +16,7 @@ BoldPlugin = window.EditoreBoldPlugin;
 BoldPlugin = require('editore-bold-plugin');
 
 // then register!
-editor.registerEditionComponent(BoldPlugin);
+editor.registerEditionPlugin(BoldPlugin);
 ```
 ---
 #### support
