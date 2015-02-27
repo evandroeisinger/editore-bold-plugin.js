@@ -13,7 +13,7 @@ var editor = new Editor(document.getElementById('editor')),
 // Global
 BoldPlugin = window.EditoreBoldPlugin;
 // CommonJS
-BoldPlugin = require('editore-italic-plugin');
+BoldPlugin = require('editore-bold-plugin');
 
 // then register!
 editor.registerEditionComponent(BoldPlugin);
