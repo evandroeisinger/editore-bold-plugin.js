@@ -23,6 +23,7 @@
     action: function(field, e) {
       e.preventDefault();
       document.execCommand('bold', false, null);
+      this.triggerInput();
     },
 
     destroy: function() {}
